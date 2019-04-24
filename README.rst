@@ -1,7 +1,7 @@
 ================
 github-followers
 ================
-webclient for retrieving github followers
+webclient for retrieving github followers.
 
 Usage - Development
 ===================
